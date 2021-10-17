@@ -19,14 +19,14 @@ The bottom 5 performing schools (% Overall Passing) was not affected by the excl
 ### Math Scores by Grade Level
 The images below show that the math scores from THS 9th grade were converted to NANs, thus excluding it from the data.  
 
-![Math By Grade - Pre](http://localhost:8888/view/School_District_Analysis/Resources/Math%20Scores%20By%20Grade%20-%20Pre-Exclusion.PNG)
+![Math By Grade - Pre](https://github.com/cflavallee/School_District_Analysis/blob/main/Resources/Math%20Scores%20By%20Grade%20-%20Pre-Exclusion.PNG)
 ![Math By Grade - Post](https://github.com/cflavallee/School_District_Analysis/blob/main/Resources/Math%20Scores%20By%20Grade%20-%20Post-Exclusion.PNG)
 
 ### Reading Scores by Grade Level
 The images below show that the reading scores from THS 9th grade were converted to NANs, thus excluding it from the data.    
 
-![Reading By Grade - Pre](http://localhost:8888/view/School_District_Analysis/Resources/Reading%20Scores%20By%20Grade%20-%20Pre-Exclusion.PNG)
-![Reading By Grade - Post](http://localhost:8888/view/School_District_Analysis/Resources/Reading%20Scores%20By%20Grade%20-%20Post-Exclusion.PNG)
+![Reading By Grade - Pre](https://github.com/cflavallee/School_District_Analysis/blob/main/Resources/Reading%20Scores%20By%20Grade%20-%20Pre-Exclusion.PNG)
+![Reading By Grade - Post](https://github.com/cflavallee/School_District_Analysis/blob/main/Resources/Reading%20Scores%20By%20Grade%20-%20Post-Exclusion.PNG)
 ### School Performance - Budget per Student
 The math and reading performance was better amongst schools that had a lower per student budget.  This correlation does not mean that there is a causation.  Further analysis, including the data in the next sections, would need to be done in order to determine how budget and peformance are related. 
 
